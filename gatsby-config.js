@@ -5,7 +5,7 @@ module.exports = {
     title: 'Philip Huang',
     description:
       'Philip Huang is a software engineer based in sunny Irvine, California currently honing his skills at web development and has created a host of different websites.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://philhuangsw.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@phiriphuang',
   },
