@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '3'
 title: 'Collection Comparer'
-cover: './demo.png'
+cover: './demo2.png'
 github: 'https://github.com/PhilHuangSW/CompareCollections'
 external: 'https://afternoon-crag-24327.herokuapp.com/'
 tech:

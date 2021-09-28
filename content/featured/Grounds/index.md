@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Grounds'
 cover: './demo.png'
 github: 'https://github.com/PhilHuangSW/grounds'
@@ -15,6 +15,6 @@ tech:
   - Bootstrap
 ---
 
-Grounds is a crowd-sourced campgrounds directory where users can add, delete, and update campsites on top of being able to post reviews, comments, and ratings to other campsites.
+A crowd-sourced campgrounds directory where users can add, delete, and update campsites on top of being able to post reviews, comments, and ratings to other campsites.
 
 Grounds features authenticated login, sanitization on all forms, and HTTP header protection to boost security protocols so that your information is protected from common attacks.

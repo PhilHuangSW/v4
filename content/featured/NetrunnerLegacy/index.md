@@ -13,4 +13,6 @@ tech:
   - Bootstrap
 ---
 
-A guide to 20 premade [Android: Netrunner](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/) decks featuring decklists, how to play, tips and tricks, and card details.
+A guide to 20 premade [Android: Netrunner](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game/) decks featuring decklists, how-to-play, tips and tricks, and card details.
+
+Create the decks, choose a runner/corporation, read the snippets, and get to playing!
