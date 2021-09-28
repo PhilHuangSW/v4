@@ -60,9 +60,10 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently looking for new opportunities that can advance my career while simultaneously
-        allowing me to contribute my knowledge and experience to benefit the company's product and
-        platform.
+        I am always open to new opportunities which can advance my career while simultaneously
+        allowing me to contribute my knowledge and experience. If you believe I could be a great
+        addition to your company, please send me an email and I will respond to you as quickly as I
+        can.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

@@ -136,8 +136,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! My name is Philip but most people call me Phil. I enjoy creating things
+              Hello there! My name is Philip but most people call me Phil. I love creating things
               that live on (and off) the internet.
+            </p>
+
+            <p>
+              I graduated from the{' '}
+              <a href="https://www.uci.edu" target="_blank" rel="noreferrer">
+                University of California, Irvine
+              </a>{' '}
+              and I've been in the same city ever since.
+            </p>
+
+            <p>
+              I previously had the honor of working with an up and coming startup called{' '}
+              <a href="https://www.fuzelo.com" target="_blank" rel="noreferrer">
+                Fuzelo
+              </a>{' '}
+              that specialized in creating a one-of-a-kind VR-fitness adventure. It was a fast paced
+              environment with many late night hours, but I had the pleasure of working with some
+              incredible people from all over the world.
+            </p>
+
+            <p>
+              Fast forward to now, I've been hard at work creating a few passion projects that both
+              serve to deepen my understanding of web development and to provide for my community
+              some additional resources to use.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -65,8 +65,8 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer based in Irvine, California. I'm currently honing my skills at web
-        development and have created a host of different websites you can find{' '}
-        <a href="/#projects">here</a>!
+        development and have created a host of different websites that you can find{' '}
+        <a href="/#projects">here!</a>
       </p>
     </>
   );
