@@ -58,14 +58,14 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hello World, my name is</h1>;
+  const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Philip Huang,</h2>;
   const three = <h3 className="big-heading">and I write code.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer based in sunny Irvine, California. I'm currently honing my skills at
-        web development and have created a host of different websites you can find{' '}
+        I’m a software engineer based in Irvine, California. I'm currently honing my skills at web
+        development and have created a host of different websites you can find{' '}
         <a href="/#projects">here</a>!
       </p>
     </>
