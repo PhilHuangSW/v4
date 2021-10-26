@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Collection Comparer'
 cover: './demo2.png'
 github: 'https://github.com/PhilHuangSW/CompareCollections'

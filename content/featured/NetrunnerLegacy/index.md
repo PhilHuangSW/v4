@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Netrunner Legacy'
 cover: './netrunnerlegacy.png'
 github: 'https://github.com/PhilHuangSW/philslegacynetrunner'
